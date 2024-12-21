@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_filled_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_sites"
+        android:icon="@drawable/baseline_restaurant_24"
+        android:title="Sites"/>
+
+    <item
+        android:id="@+id/nav_rank"
+        android:icon="@drawable/baseline_star_rate_24"
+        android:title="Rank"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile"/>
+</menu>
